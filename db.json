@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "",
+      "date": "",
+      "source": {
+        "name": "",
+        "url": ""
+      },
+      "author": "",
+      "content": "",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "images": {
+        "url": "",
+        "caption": ""
+      },
+      "related_articles": [
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
