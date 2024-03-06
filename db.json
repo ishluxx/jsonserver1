@@ -2,28 +2,41 @@
   "post": [
     {
       "id": "",
-      "title": "",
-      "date": "",
-      "source": {
-        "name": "",
-        "url": ""
-      },
+      "title":"",
       "author": "",
-      "content": "",
-      "tags": [
-        "",
-        "",
-        ""
-      ],
-      "images": {
-        "url": "",
-        "caption": ""
-      },
-      "related_articles": [
+      "date": "",
+      "content":[
         {
-          "title": "",
-          "url": ""
+          "section_title":"",
+          "intro":[
+            ""
+          ]
+        },
+        {
+         "body":[
+          {
+            "section_title":"",
+            "paragraphs":[
+              "",
+              {
+                "sub_section_title":"",
+                "description":""
+              },
+              {
+                "sub_section_title":"",
+                "description":""
+              }
+            ],
+            "section_conclusion":"",
+            "paragraph":[
+              ""
+            ]
+          }
+         ]
         }
+    ],
+      "tages": [
+        ""
       ]
     }
   ]
