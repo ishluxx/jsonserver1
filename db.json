@@ -2,39 +2,39 @@
   "post": [
     {
       "id": "",
-      "title":"",
+      "title": "",
       "author": "",
       "date": "",
-      "content":[
+      "content": [
         {
-          "section_title":"",
-          "intro":[
+          "section_title": "",
+          "intro": [
             ""
           ]
         },
         {
-         "body":[
-          {
-            "section_title":"",
-            "paragraphs":[
-              "",
-              {
-                "sub_section_title":"",
-                "description":""
-              },
-              {
-                "sub_section_title":"",
-                "description":""
-              }
-            ],
-            "section_conclusion":"",
-            "paragraph":[
-              ""
-            ]
-          }
-         ]
+          "body": [
+            {
+              "section_title": "",
+              "paragraphs": [
+                "",
+                {
+                  "sub_section_title": "",
+                  "description": ""
+                },
+                {
+                  "sub_section_title": "",
+                  "description": ""
+                }
+              ],
+              "section_conclusion": "",
+              "paragraph": [
+                ""
+              ]
+            }
+          ]
         }
-    ],
+      ],
       "tages": [
         ""
       ]
