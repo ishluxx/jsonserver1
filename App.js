@@ -12,7 +12,9 @@ server.use(jsonServer.bodyParser);
 // Add custom routes before JSON Server router
 server.post('/posts', (req, res, next) => {
     const id = uuidv4(); // Generate UUID
+    const currentTime = new Date().toISOString();
     req.body.id = id;
+    req.body.date = currentTime;
   next();
 });
 
