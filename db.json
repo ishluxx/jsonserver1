@@ -2,28 +2,31 @@
   "post": [
     {
       "id": "",
-      "title": "",
-      "author": "",
+      "author":[
+        {
+          "image":"",
+          "name":""
+        }
+      ],
       "date": "",
+      "title": "",
       "content": [
         {
-          "section_title": "",
-          "intro": [
-            ""
-          ]
+          "intro":"",
+          "image":""
         },
         {
           "body": [
             {
-              "section_title": "",
               "paragraphs": [
-                "",
                 {
                   "sub_section_title": "",
+                  "image":"",
                   "description": ""
                 },
                 {
                   "sub_section_title": "",
+                  "image":"",
                   "description": ""
                 }
               ],
@@ -34,9 +37,6 @@
             }
           ]
         }
-      ],
-      "tages": [
-        ""
       ]
     }
   ]
