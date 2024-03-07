@@ -16,9 +16,7 @@
           "image":""
         },
         {
-          "body": [
-            {
-              "paragraphs": [
+          "paragraphs": [
                 {
                   "sub_section_title": "",
                   "image":"",
@@ -28,14 +26,14 @@
                   "sub_section_title": "",
                   "image":"",
                   "description": ""
+                },
+                {
+                  "section_conclusion": "",
+                  "paragraph": [
+                    ""
+                  ]
                 }
-              ],
-              "section_conclusion": "",
-              "paragraph": [
-                ""
-              ]
-            }
-          ]
+           ]
         }
       ]
     }
